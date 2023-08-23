@@ -1,0 +1,14 @@
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.AssemblyInfoInputs.cache
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.AssemblyInfo.cs
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.csproj.CoreCompileInputs.cache
+/Users/yurijsedetskas/Desktop/C#/task007/bin/Debug/net7.0/task007
+/Users/yurijsedetskas/Desktop/C#/task007/bin/Debug/net7.0/task007.deps.json
+/Users/yurijsedetskas/Desktop/C#/task007/bin/Debug/net7.0/task007.runtimeconfig.json
+/Users/yurijsedetskas/Desktop/C#/task007/bin/Debug/net7.0/task007.dll
+/Users/yurijsedetskas/Desktop/C#/task007/bin/Debug/net7.0/task007.pdb
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.dll
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/refint/task007.dll
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.pdb
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/task007.genruntimeconfig.cache
+/Users/yurijsedetskas/Desktop/C#/task007/obj/Debug/net7.0/ref/task007.dll
